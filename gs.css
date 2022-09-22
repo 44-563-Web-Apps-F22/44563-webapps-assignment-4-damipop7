@@ -14,11 +14,16 @@
     color: black;}
 .direction:hover{
     background-color:white;
-    color: black;}
+    color: black;
+shadow}
 .name{
     font: Arial;
     size: 20px;
     color: black;
+}
+.name:hover{
+    text-shadow: 1px 2px 2px red;
+    tex
 }
 .mercury{
     color: blue;
