@@ -2,23 +2,19 @@
     font: Arial;
     size: 20px;
     color: black;
-    font-style: bold;
-}
+    font-style: bold;}
 .song{
     font: Arial;
     size: 20px;
     color: black;
-    font-style: italic;
-}
+    font-style: italic;}
 .direction{
     font: Arial;
     size: 20px;
-    color: black;
-}
+    color: black;}
 .direction:hover{
     background-color:white;
-    color: black;
-}
+    color: black;}
 .name{
     font: Arial;
     size: 20px;
@@ -30,5 +26,11 @@
 }
 .thespis{
     color: red;
-
+}
+.table{
+    border: 1px solid coral;
+    text-align: center; 
+    width: 212px;
+    float: left;
+    margin: 23px 42px;
 }
